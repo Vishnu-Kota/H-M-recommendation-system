@@ -1,4 +1,5 @@
 ![image](https://user-images.githubusercontent.com/65905342/167622528-f6b7c3bc-8722-4a18-97ad-837bec400ed5.png)
+
 # H-M-recommendation-system
 A recommendation system created for H&amp;M created with the help of EDA(Exploratory Data Analysis) and ALS (Alternative Least Squares) which optimizes a users recommendations taking into considerations an account`s view history and uses matrix optimization to give the best possible recommendations.
 We make use of 4 different csv files which are-articles.csv,customers.csv,transactions_train.csv and sample_submissions.csv.
@@ -34,3 +35,5 @@ The same principles used for transaction_train file.
 This is logarithmic graph about the transactions done due to various accounts.
 ![image](https://user-images.githubusercontent.com/65905342/167627091-4b333087-566b-4665-ac5d-2cceed7c42f7.png)
 
+This model shows a prediction efficiency of over 70%.
+Thank You for reading.
